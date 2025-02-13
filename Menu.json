@@ -1,0 +1,75 @@
+[
+  {
+    "day": "Monday",
+    "locationName": "Memorial Union Quad",
+    "coordinate": [38.54141, -121.74845],
+    "menu": [
+        "Penne Pasta w/ Bolognese",
+        ["In Stock","🌾","🐷"],
+        "Penne Pasta w/ Roasted Mushrooms",
+        ["Limited Availability","🌾","V"]
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "locationName": "International Center",
+    "coordinate": [38.54540, -121.75494],
+    "menu": [
+        "Beef & Lamb Gyro",
+        ["","🌾","🫛", "🥛"],
+        "Edamame Hummus w/ Veggies",
+        ["","🫛","🥛", "SE", "VE"]
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "locationName": "Storer Hall",
+    "coordinate": [38.54114, -121.75461],
+    "menu": [
+        "Seafood Salad Tostada",
+        ["","🥚","🦐", "🫛", "🐟"],
+        "Southwest Black Bean Tostada",
+        ["","V"]
+    ]
+  },
+  {
+    "day": "Thursday",
+    "locationName": "Orchard Park",
+    "coordinate": [38.544828, -121.765170],
+    "menu": [
+        "Teriyaki Beef w/ Stir Fry Noodles",
+        ["","🌾","🫛","SE"],
+        "Teriyaki Tofu w/ Veggie Stir Fry",
+        ["","🌾","🫛", "SE","V"]
+    ]
+  },
+   {
+    "day": "Friday",
+    "locationName": "Memorial Union Quad",
+    "coordinate": [38.54141, -121.74845],
+    "menu": [
+        "Soy Ciltrano Lime Chicken",
+        ["","🌾","🫛"],
+        "Southwest Tofu",
+        ["","🫛","V"]
+    ]
+  },
+   {
+    "day": "Saturday",
+    "locationName": "Memorial Union Quad",
+    "coordinate": [38.54141, -121.74845],
+    "menu": [
+        "Closed",
+        [""],
+    ]
+  },
+   {
+    "day": "Sunday",
+    "locationName": "Memorial Union Quad",
+    "coordinate": [38.54141, -121.74845],
+    "menu": [
+        "Closed",
+        [""],
+    ]
+  }
+]
